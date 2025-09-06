@@ -33,8 +33,6 @@ ADMIN PANEL - Features:
 -->View/edit all user orders
 
 
-IMPORTANT NOTE: Use only for Educational Purposes!
 
 ******************************************************************************************************
 
-Check our channel for more Projects!
